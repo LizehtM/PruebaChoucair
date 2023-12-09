@@ -18,8 +18,6 @@
 
 ``Use Automation``
 
-Git clone:  https://github.com/LizehtM/RetoChoucair.git
-
 Open IDEA: I recommend: intelliJ
 
 And excute gradle clean test aggregate --info
